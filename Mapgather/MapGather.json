@@ -1,0 +1,21 @@
+{
+  "Author": "Y111",
+  "Name": "Map Gather",
+  "InternalName": "MapGather",
+  "AssemblyVersion": "1.2",
+  "Description": "自动挖藏宝图，上架。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://localhost/map-gather",
+  "Tags": [
+    "map",
+    "gather",
+    "retainer"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自动挖藏宝图，上架",
+  "AcceptsFeedback": true
+}
