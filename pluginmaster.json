@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "yyyyyyyy8",
+    "Name": "Map Gather",
+    "InternalName": "MapGather",
+    "Description": "自动挖藏宝图，上架。",
+    "Punchline": "自动挖藏宝图，上架",
+    "RepoUrl": "https://github.com/yyyyyyyy8/Y111Plugins",
+    "DownloadLinkInstall": "https://github.com/yyyyyyyy8/Y111Plugins/releases/latest/download/MapGather.zip",
+    "DownloadLinkUpdate": "https://github.com/yyyyyyyy8/Y111Plugins/releases/latest/download/MapGather.zip",
+    "AssemblyVersion": "1.2",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "map",
+      "gather",
+      "retainer"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptFeedback": false,
+    "LastUpdate": 1791748130
+  }
+]
