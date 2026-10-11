@@ -1,11 +1,11 @@
 # Y111Plugins
 
-FFXIV Dalamud 自定义插件源。
+用AI工具到处抄的小插件，捣鼓着玩
 
 ## 添加插件源
 
 在游戏内 `/xlsettings` → `Experimental` → `Custom Plugin Repositories`，
-添加下面这个地址（注意是 raw 链接）：
+添加下面这个地址：
 
 ```
 https://raw.githubusercontent.com/yyyyyyyy8/Y111Plugins/main/pluginmaster.json
