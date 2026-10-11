@@ -1,0 +1,2 @@
+# Y111Plugins
+DalamudPlugins
