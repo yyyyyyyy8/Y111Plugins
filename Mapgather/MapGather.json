@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.2",
   "Description": "自动挖藏宝图，上架。",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://localhost/map-gather",
+  "RepoUrl": "https://github.com/yyyyyyyy8/Y111Plugins",
   "Tags": [
     "map",
     "gather",
