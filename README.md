@@ -27,4 +27,8 @@ https://raw.githubusercontent.com/yyyyyyyy8/Y111Plugins/main/pluginmaster.json
 
 | 插件 | 内部名 | 版本 |
 | --- | --- | --- |
-| Map Gather | MapGather | 1.2 |
+| Map Gather | MapGather | 1.3 |
+
+### v1.3
+
+- 脚本运行期间自动推进普通对话，停止后停用，无需额外配置。

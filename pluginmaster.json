@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/yyyyyyyy8/Y111Plugins",
     "DownloadLinkInstall": "https://github.com/yyyyyyyy8/Y111Plugins/releases/latest/download/MapGather.zip",
     "DownloadLinkUpdate": "https://github.com/yyyyyyyy8/Y111Plugins/releases/latest/download/MapGather.zip",
-    "AssemblyVersion": "1.2",
+    "AssemblyVersion": "1.3",
     "ApplicableVersion": "any",
     "Tags": [
       "map",
